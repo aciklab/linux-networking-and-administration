@@ -1,0 +1,7 @@
+Yeni bir Pardus 19 Server makine kurularak derste anlatılan yollarla ağ ataması ve statik ip değişimi yapılacaktır.
+
+- Pardus 19 Server makine oluşturulması (tercihen hostname p19pzt)
+- Makinenin ağ ayarının derste oluşturulan NAT Network olarak ayarlanması
+- Makinenin IP'sinin statikleştirilmesi (10.0.2.27) ve statik IP ile internet kontrolü (apt update)
+- NAT Networkün port yönlendirme ayarlarından bu makine için de port forwarding ayarı yapılması
+- Ana (host) makineden bu makineye ssh atılabildiğinin kontrol edilmesi 
